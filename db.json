@@ -1,0 +1,166 @@
+{
+  "users": [
+    {
+      "username": "tipo@email.com",
+      "password": "$2b$10$NjV0vfAEoOzyMpIVEcRJ6OECyyXQyrJZAzDVXE5o/x6reeIdF9aUO",
+      "id": 1
+    },
+    {
+      "username": "gala@email.com",
+      "password": "$2b$10$NjV0vfAEoOzyMpIVEcRJ6OgM/GFP7YnMfdwFrprgHnRDEe0z2nItC",
+      "id": 2
+    },
+    {
+      "username": "toni@email.com",
+      "password": "$2b$10$NjV0vfAEoOzyMpIVEcRJ6O7hvmqBmd5hKaOQijtzUMXq7mA7fH68G",
+      "id": 3
+    },
+    {
+      "username": "poopy@email.com",
+      "password": "$2b$10$DH3tlWDn8hq66hi9oXa9YOY1S5ct6/jTMQ0FO2rLGnI7fqcal7ovK",
+      "id": 4
+    },
+    {
+      "username": "yo@email.es",
+      "password": "$2b$10$DH3tlWDn8hq66hi9oXa9YOY1S5ct6/jTMQ0FO2rLGnI7fqcal7ovK",
+      "id": 5
+    },
+    {
+      "username": "brisi@gmail.com",
+      "password": "$2b$10$DH3tlWDn8hq66hi9oXa9YOY1S5ct6/jTMQ0FO2rLGnI7fqcal7ovK",
+      "id": 6
+    }
+  ],
+  "products": [
+    {
+      "name": "Monitor LG 27 pulgadas (FHD, 75Hz) - Como nuevo",
+      "description": "Se vende monitor LG de 27\" en perfecto estado, tanto estético como de funcionamiento. Lo compré hace poco más de un año y lo he usado únicamente para teletrabajar, pero lo vendo porque me han dado uno en la empresa.",
+      "price": 95,
+      "type": "venta",
+      "image": "http://localhost:8000//file-1779018298367.jpeg",
+      "userId": 4,
+      "updatedAt": "2026-05-17T11:44:58.383Z",
+      "id": 1
+    },
+    {
+      "name": "Bicicleta de paseo vintage",
+      "description": "¡Hola! Estoy buscando una bicicleta de paseo clásica de los años 80/90 para restaurar o usar por ciudad.\n\nRequisitos mínimos:\n- Que el cuadro no tenga fisuras ni óxido profundo (no me importa si la pintura está un poco desgastada).\n- Que sea de talla M o L (mido 1,80 m).\n- Valoro positivamente que conserve piezas originales.\n\nPago hasta 100€ dependiendo de si hay que hacerle muchos arreglos o si ya está lista para rodar.",
+      "price": 100,
+      "type": "compra",
+      "image": null,
+      "userId": 4,
+      "updatedAt": "2026-05-17T11:47:52.034Z",
+      "id": 2
+    },
+    {
+      "name": "Zapatillas Nike Air Force 1 White (Talla 42)",
+      "description": "Vendo Nike Air Force 1 clásicas en color blanco, talla 42. Me las han regalado por mi cumpleaños pero me quedan un pelín justas y se me pasó el plazo de devolución.",
+      "price": 65,
+      "type": "venta",
+      "image": "http://localhost:8000//file-1779026312345.webp",
+      "userId": 3,
+      "updatedAt": "2026-05-17T13:58:32.364Z",
+      "id": 3
+    },
+    {
+      "name": "Nintendo Switch Lite Turquesa + Funda rígida",
+      "description": "Vendo Nintendo Switch Lite color turquesa por falta de uso debido a los estudios. Está impecable, muy mimada.",
+      "price": 125,
+      "type": "venta",
+      "image": "http://localhost:8000//file-1779026387857.webp",
+      "userId": 3,
+      "updatedAt": "2026-05-17T13:59:47.864Z",
+      "id": 4
+    },
+    {
+      "name": "Mesa de centro elevable (Estilo Industrial - Madera y Metal)",
+      "description": "Mesa de centro elevable ideal para salones pequeños y súper práctica para cenar o trabajar desde el sofá. Estilo nórdico/industrial.\n\nDimensiones: 100cm (largo) x 50cm (ancho) x 45cm (alto - cerrada) / 57cm (alto - elevada).",
+      "price": 40,
+      "type": "venta",
+      "image": "http://localhost:8000//file-1779026602429.jpg",
+      "userId": 3,
+      "updatedAt": "2026-05-17T14:03:22.440Z",
+      "id": 5
+    },
+    {
+      "name": "BUSCO: Patinete eléctrico Xiaomi (Modelos Pro 2 o Mi 3)",
+      "description": "Estoy buscando un patinete eléctrico Xiaomi para mis trayectos diarios al trabajo. Me interesan principalmente los modelos Pro 2, Mi 3 o Essential si está a buen precio.\n\nLo que pido:\n- Que la batería mantenga una buena autonomía real.\n- Que incluya su cargador original.\n- Imprescindible que no esté trucado ni tenga holguras graves en el manillar.",
+      "price": 250,
+      "type": "compra",
+      "image": null,
+      "userId": 5,
+      "updatedAt": "2026-05-17T14:05:49.722Z",
+      "id": 6
+    },
+    {
+      "name": "Freidora de aire Cosori 5.5L (Panel táctil) - Impecable",
+      "description": "Vendo freidora de aire (Airfryer) de la marca Cosori, modelo de 5.5 litros de capacidad (ideal para 3-4 personas). La compramos hace unos meses y la verdad es que funciona de maravilla, pero nos han regalado un robot de cocina que ya hace de todo y no tenemos sitio para ambas cosas.",
+      "price": 65,
+      "type": "venta",
+      "image": "http://localhost:8000//file-1779026945118.webp",
+      "userId": 5,
+      "updatedAt": "2026-05-17T14:09:05.126Z",
+      "id": 8
+    },
+    {
+      "name": "Set de mancuernas ajustables de hierro (20 kg en total)",
+      "description": "Vendo maletín de mancuernas de la marca Decathlon (o similar) con un total de 20kg en discos de hierro. Perfecto para montar tu propio gimnasio en casa sin ocupar espacio.",
+      "price": 40,
+      "type": "venta",
+      "image": "http://localhost:8000//file-1779027114929.jpg",
+      "userId": 5,
+      "updatedAt": "2026-05-17T14:11:54.946Z",
+      "id": 9
+    },
+    {
+      "name": "Guitarra clásica / española para principiante (Alhambra, Yamaha, Admira)",
+      "description": "¡Buenas! Voy a empezar a dar clases de guitarra y busco un instrumento para aprender. Busco marcas reconocidas tipo Alhambra (modelos básicos Z-Nature o 1C), Yamaha (C40 / C70) o Admira (Juanita / Fiesta).",
+      "price": 130,
+      "type": "compra",
+      "image": null,
+      "userId": 5,
+      "updatedAt": "2026-05-17T14:12:45.904Z",
+      "id": 10
+    },
+    {
+      "name": "Gafas de sol Ray-Ban Wayfarer Classic (Originales)",
+      "description": "Vendo gafas de sol icónicas Ray-Ban Wayfarer con montura negra brillante y cristales verdes clásicos G-15. Son 100% originales (puedes revisar el grabado láser en el cristal y los códigos de la patilla en las fotos).\n\nEstado: Muy bueno. Las lentes no tienen arañazos que afecten a la visión y la montura está ajustada.",
+      "price": 75,
+      "type": "venta",
+      "image": "http://localhost:8000//file-1779027266664.webp",
+      "userId": 5,
+      "updatedAt": "2026-05-17T14:14:26.670Z",
+      "id": 11
+    },
+    {
+      "name": "Teclado mecánico Gaming Logitech G413 (Switches Romer-G)",
+      "description": "Vendo teclado mecánico Logitech G413 en su versión de retroiluminación roja fija. Chasis superior de aluminio cepillado de calidad aeronáutica, muy resistente y elegante.",
+      "price": 35,
+      "type": "venta",
+      "image": "http://localhost:8000//file-1779027405104.webp",
+      "userId": 6,
+      "updatedAt": "2026-05-17T14:16:45.109Z",
+      "id": 12
+    },
+    {
+      "name": "Auriculares Sony WH-1000XM4 (Cancelación de ruido)",
+      "description": "Estoy buscando los auriculares de diadema Sony WH-1000XM4. Los necesito principalmente para estudiar en la biblioteca y aislarme del ruido, por lo que valoro mucho que la cancelación de ruido funcione perfectamente.\n\nCondiciones de compra:\n- Que las almohadillas no estén excesivamente desgastadas o peladas (si tienen un desgaste mínimo me vale).\n- Imprescindible que incluyan su funda rígida de viaje y el cable de carga.\n- Que la batería no esté degradada.",
+      "price": 140,
+      "type": "compra",
+      "image": null,
+      "userId": 6,
+      "updatedAt": "2026-05-17T14:18:37.769Z",
+      "id": 13
+    },
+    {
+      "name": "Tocadiscos Audio-Technica AT-LP60X",
+      "description": "Vendo tocadiscos de vinilo de la prestigiosa marca Audio-Technica, modelo AT-LP60X en color negro. Es el modelo perfecto tanto para iniciarse en el mundo del vinilo como para presupuestos ajustados que buscan calidad de sonido real sin romper sus discos.",
+      "price": 90,
+      "type": "venta",
+      "image": "http://localhost:8000//file-1779027608805.jpg",
+      "userId": 6,
+      "updatedAt": "2026-05-17T14:20:08.813Z",
+      "id": 14
+    }
+  ]
+}
