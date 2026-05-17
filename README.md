@@ -1,0 +1,5 @@
+- Developed strictly with Vanilla JS (no libraries/frameworks allowed) used external CSS utilities (Bootstrap) 
+- Implemented core modules using MVC architecture: login, signup, session, product-list, product-detail, create-product and more.
+- Managed all UI states (loading, error, success, and empty) across components.
+- Integrated client-side logic with sparrest.js API for persistence.
+- Handled JWT authentication (Bearer token) for protected routes and actions (creation, deletion with confirmation).
